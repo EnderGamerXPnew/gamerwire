@@ -1,0 +1,6 @@
+out plancher_noir.dupe plancher_noir.nbt
+out plancher_blanc.dupe plancher_blanc.nbt
+out mur_rouge.dupe mur_rouge.nbt
+out mur_en_verre.dupe mur_en_verre.nbt
+out toit_en_cuivre.dupe toit_en_cuivre.nbt
+out toit_en_verre.dupe toit_en_verre.nbt
